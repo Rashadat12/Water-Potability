@@ -63,8 +63,8 @@ The dataset contains water quality metrics for 3,276 water bodies across 9 water
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Rashadat12/Water-Potability-Prediction.git
-cd Water-Potability-Prediction
+git clone https://github.com/Rashadat12/Water-Potability.git
+cd Water-Potability
 ```
 
 ### 2. Install Dependencies
